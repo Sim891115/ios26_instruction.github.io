@@ -137,14 +137,14 @@ section a:hover{
 
 .test {
     max-width: 100%;
-    margin: 0.5px 70px;
+    margin: 0.5px 50px;
     border-radius: 10px;
 }
 
 .test1 {
     max-width: 100%;
     /* background: #fff; */
-    margin: 0.5px 70px;
+    margin: 0.5px 50px;
     padding: 70px;
     border-radius: 10px;
 }
