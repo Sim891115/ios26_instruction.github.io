@@ -12,7 +12,7 @@ nav ul {
 @media (max-width: 768px) {
     nav li {
         display: block;          /* 垂直排列 */
-        margin: 10px 0;          /* 上下留距離，左右去掉 */
+        margin: 0 10px;          /* 上下留距離，左右去掉 */
         text-align: center;      /* 文字置中 */
     }
 }
@@ -32,6 +32,7 @@ nav li:hover {
     right: 0;
     top: 0;
 }
+
 
 
 
