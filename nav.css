@@ -9,10 +9,12 @@ nav ul {
     /* width: 100%; */
 }
 
-nav li {
-    display: inline-block;
-    padding: 2px;
-    margin: 3px 50px;
+@media (max-width: 768px) {
+    nav li {
+        display: block;          /* 垂直排列 */
+        margin: 10px 0;          /* 上下留距離，左右去掉 */
+        text-align: center;      /* 文字置中 */
+    }
 }
 
 nav li:hover {
@@ -30,5 +32,6 @@ nav li:hover {
     right: 0;
     top: 0;
 }
+
 
 
