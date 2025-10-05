@@ -15,10 +15,6 @@ nav ul {
         margin: 3px 10px;   /* 左右間距縮小 */
         padding: 5px;       /* 稍微加大內距，方便點擊 */
     }
-
-    nav {
-        text-align: center; /* 讓整個導覽列置中 */
-    }
 }
 
 nav li:hover {
