@@ -12,7 +12,7 @@ nav ul {
 nav li {
     display: inline-block;
     padding: 2px;
-    margin: 3px 15px;
+    margin: 3px 50px;
 }
 
 nav li:hover {
@@ -30,6 +30,7 @@ nav li:hover {
     right: 0;
     top: 0;
 }
+
 
 
 
